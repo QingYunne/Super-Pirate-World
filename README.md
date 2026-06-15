@@ -6,7 +6,7 @@ A 2D adventure/platformer game built with **Unity**. Play as a daring pirate exp
 
 ## 🎮 Main Features
 
-- **Overworld map** — 5 interconnected levels to explore and unlock progressively
+- **Overworld map** — 6 interconnected levels to explore and unlock progressively
 - **Platformer mechanics** — movement, jumping, wall slide, wall jump, drop-through platforms
 - **Enemy AI** — patrolling enemies, projectile-firing enemies, and various hazards
 - **Health & collectibles system** — hearts, coins, potions, and rewards
@@ -129,6 +129,45 @@ A full project report (in Vietnamese) is available in the [`documentation/`](htt
 ## 🎬 Inspiration
 
 Inspired by the YouTube tutorial **[Pirate Platformer Game](https://youtu.be/WViyCAa6yLI?si=WZf1TdgT1RQ7JfMp)** — originally built in Python/Pygame. Super Pirate World is a reimplementation of the same game in **Unity** and **C#**, recreating the gameplay, levels, and pirate theme from scratch in a different engine.
+
+---
+
+## 📸 Demo Images
+
+### Main Menu
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/fdcfae77-d13d-43ea-a53d-01b68de97f27" />
+
+### Overworld
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5e18f0f1-8dc9-484f-a8dc-d2104c4d9737" />
+
+<img width="1082" height="649" alt="Ảnh chụp màn hình 2026-06-15 131610" src="https://github.com/user-attachments/assets/935d2048-41a5-4e67-998c-548b80b9b2e8" />
+
+### Level Gameplay
+
+<img width="1280" height="800" alt="Ảnh chụp màn hình 2026-06-15 120009" src="https://github.com/user-attachments/assets/ecdff7e9-bd0d-44c1-9e74-43228d32c701" />
+
+<img width="1162" height="643" alt="image" src="https://github.com/user-attachments/assets/d29b905d-a6c1-40d1-a0e5-22532109174e" />
+
+<img width="1156" height="661" alt="Ảnh chụp màn hình 2026-06-15 150501" src="https://github.com/user-attachments/assets/7cf39147-616e-4dcd-aa1e-1cb285d21a1f" />
+
+
+<img width="1157" height="650" alt="image" src="https://github.com/user-attachments/assets/4ddf8a50-53ac-49c7-aeef-70c8abee9559" />
+
+
+<img width="1166" height="653" alt="image" src="https://github.com/user-attachments/assets/7b50a126-8137-43cb-a9f1-302f32043b9a" />
+
+### Flag
+
+
+<img width="67" height="128" alt="image" src="https://github.com/user-attachments/assets/280d78bb-4880-4986-ba4d-a09a8d4d44e2" />
+
+### Final Tresure
+
+<img width="203" height="176" alt="Ảnh chụp màn hình 2026-06-15 150927" src="https://github.com/user-attachments/assets/7a69a0c8-e3c6-498a-ad94-ba1fa0cd1df4" />
+
+<img width="203" height="230" alt="Ảnh chụp màn hình 2026-06-15 150942" src="https://github.com/user-attachments/assets/620e881e-8d1f-47e8-b84e-180de8419e0f" />
 
 ---
 
